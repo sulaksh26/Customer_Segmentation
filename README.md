@@ -1,3 +1,5 @@
+# Customer Segmentation(Link:https://customersegmentation-z7yn9a5kkk6hrduotpe4wt.streamlit.app/)
+
 # ⚙️ How It Works
 Upload Dataset: Optionally upload a customer data CSV or use the default dataset provided.
 
